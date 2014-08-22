@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Initisal repository for Dan Solero's new account.
+Initial repository for Dan Solero's new account.
